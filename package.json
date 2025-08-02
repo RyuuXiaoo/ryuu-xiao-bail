@@ -1,15 +1,15 @@
 {
   "name": "Ryuu-Xiao",
-  "version": "26.0.4",
+  "version": "6.8.5",
   "description": "baileys whatsapp-api",
-  "keywords": [
-    "automation",
-    "whatsapp",
-    "baileys"
+    "keywords": [
+    "baileys", "baileys-mod", "wabot", "whatsapp",
+    "js-whatsapp", "whatsapp-api", "whatsapp-web", "whatsapp-bot",
+    "automation", "multi-device"
   ],
-  "homepage": "https://github.com/RyuuXiaoo/ryuu-xiao-bail",
+  "homepage": "https://github.com/RyuuXiaoo/RyuuXiao-Beta",
   "repository": {
-    "url": "https://github.com/RyuuXiaoo/ryuu-xiao-bail"
+    "url": "https://github.com/RyuuXiaoo/RyuuXiao-Beta"
   },
   "license": "MIT",
   "author": "Ryuu-Xiao",
@@ -50,6 +50,6 @@
     "lib": "lib"
   },
   "bugs": {
-    "url": "https://github.com/RyuuXiaoo/ryuu-xiao-bail/issues"
+    "url": "https://github.com/RyuuXiaoo/RyuuXiao-Beta/issues"
   }
 }
